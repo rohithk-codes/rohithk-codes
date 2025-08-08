@@ -82,10 +82,10 @@ Thrives in fast-paced, challenging environments
 ## 🎯 **Currently Seeking**
 
 **My first IT role** in a dynamic startup where I can:
- ✅ Contribute from day one
- ✅ Learn from experienced developers  
- ✅ Face new challenges daily
- ✅ Grow with an innovative team
+- ✅ Contribute from day one
+- ✅ Learn from experienced developers  
+- ✅ Face new challenges daily
+- ✅ Grow with an innovative team
 
 <br>
 
