@@ -93,7 +93,7 @@ Thrives in fast-paced, challenging environments
 
 <img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mydata"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohithk-codes&theme=tokyonight&hide_border=true"/>(https://streak-stats.demolab.com?user=rohithk-codes&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohithk-codes&theme=tokyonight&hide_border=true"/>
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
