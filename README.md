@@ -4,7 +4,7 @@
 
 ### 🚀 From Marketing Mind to Code Craftsman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=const+passion+%3D+%22building+solutions%22%3B;MBA+Graduate+%E2%86%92+Developer;Self-taught+%7C+Startup+Ready;MERN+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=const+passion+%3D+%22building+solutions%22%3B;MBA+Graduate+%E2%86%92+Developer;Self-taught+%7C+Startup+Ready;MERN+Stack+Developer;One line at a time" alt="Typing SVG" />
 
 </div>
 
