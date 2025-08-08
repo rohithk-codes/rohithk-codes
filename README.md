@@ -1,29 +1,29 @@
+### 👋 Hi there, I'm Rohith!
 
-# Hi there 👋, I'm [Your Name]
+**From Marketing Insights to Code: Passionate Full-Stack Developer Seeking Startup Challenges**
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter: your-twitter](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
+With an MBA from Kerala Technological University and two years of experience in the marketing field, I discovered a profound passion for technology that led me to pivot my career. Over the past 7 months, I've immersed myself in self-learning, mastering core web development technologies and building practical applications. My unique background in understanding user needs and business objectives now fuels my approach to building robust and user-centric web solutions.
 
-## 🚀 About Me
+---
 
-- 🔭 I’m currently working on **[Project Name](link-to-project)**
-- 🌱 I’m currently learning **[Tech/Language]**
-- 👯 I’m looking to collaborate on **[Open Source Projects, Community Initiatives, etc.]**
-- 🤔 I’m looking for help with **[Describe What]**
-- 💬 Ask me about **[Tech Stack/Expertise]**
-- 📫 How to reach me: **[email@example.com]**
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: **[Something interesting about you]**
+#### 🚀 My Tech Stack & Skills:
+*   **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+*   **Backend:** Node.js
+*   **Database:** MongoDB
+*   **Tools:** Git, npm
 
-## 🛠️ Languages and Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Other Tools/Technologies](https://img.shields.io/badge/-OtherTool-333333?style=flat&logo=other-logo)
+#### ✨ What I've Built:
+*   **GYM BUDDY (E-commerce Platform):** Successfully developed a comprehensive e-commerce website, demonstrating end-to-end development capabilities from user interface to database integration.
+*   **Ongoing Projects:** Actively working on my second major project, continuously expanding my skillset and tackling new challenges.
+*   **Freelance E-commerce Projects:** Engaged in freelance e-commerce development, delivering tailored solutions and gaining real-world project experience.
 
-## 📈 GitHub Stats
+---
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+#### 💡 My Vision:
+I am actively seeking my first full-time role in the IT sector, particularly within a fast-paced and innovative startup environment. I am driven by a desire to challenge myself daily, contribute to impactful projects, and grow alongside a passionate team. I thrive on problem-solving and am eager to apply my self-taught skills and business acumen to create meaningful impact.
 
-<!-- You can add more sections, images, or links -->
+---
+
+**Let's connect and build something amazing!**
