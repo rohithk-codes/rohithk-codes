@@ -91,7 +91,7 @@ Thrives in fast-paced, challenging environments
 
 ### 📊 **GitHub Stats**
 
-[<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />](https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mydata"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rohithk-codes&theme=tokyonight&hide_border=true" alt="GitHub " />
 
