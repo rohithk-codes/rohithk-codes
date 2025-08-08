@@ -91,11 +91,11 @@ Thrives in fast-paced, challenging environments
 
 ### 📊 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mydata"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohithk-codes&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohithk-codes&theme=tokyonight&hide_border=true" alt="streak"/>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk-codes&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk-codes&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
 
 </div>
 
@@ -119,6 +119,6 @@ Thrives in fast-paced, challenging environments
 
 ### *"Code is poetry written in logic, and I'm here to write the next chapter."* 
 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
