@@ -53,7 +53,7 @@ const rohith = {
 
 ---
 
-## 🌟 **Why Startups Should Choose Me**
+## ⚡ **Why I'm Your Next Great Hire**
 
 <table align="center">
 <tr>
