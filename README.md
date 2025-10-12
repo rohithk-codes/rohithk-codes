@@ -102,8 +102,9 @@ Thrives in fast-paced, challenging environments
 <div align="center">
 
 ## 🤝 **Let's Connect & Build Something Amazing!**
-[![LinkedIn]]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/rohithkrishnan1](https://www.linkedin.com/in/rohithkrishnan1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+<a href="https://www.linkedin.com/in/rohithkrishnan1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
 
