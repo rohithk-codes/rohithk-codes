@@ -93,14 +93,26 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-## 🤝 **Let's Connect & Build Something Amazing!**
+## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/rohithkrishnan1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/rohithkrishnan1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
+<a href="mailto:rohithkrishnan997@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="your-portfolio-link">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
+</a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ready to bring fresh energy and perspective to your development team!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
+<br><br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+<em>“Let’s collaborate and turn ideas into impactful applications.”</em>  
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -108,7 +120,7 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-### *"Code is poetry written in logic, and I'm here to write the next chapter."* 
+### *"One line at a time"* 
 
 <img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
