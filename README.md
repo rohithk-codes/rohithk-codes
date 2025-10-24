@@ -2,16 +2,24 @@
 
 # Hi there, I'm Rohith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### 💻 MBA Graduate Turned Full-Stack Developer  
-*"From marketing metrics to meaningful code."*
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=self.taught('MERN+Stack');growth.mindset++;innovation.explorer();continuous.learner=true;" alt="Typing animation" />
+### 🚀 From Marketing Mind to Code Craftsman
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=self.taught('MERN+Stack');growth.mindset++;innovation.explorer();continuous.learner=true;" alt="Typing animation" />
 
 </div>
 
 ---
 
-
+## 💫 **My Transformation Journey**
+```javascript
+const rohith = {
+  background: "MBA Graduate + 2 Years Marketing",
+  transformation: "1 Year intensive self-learning",
+  current_status: "Full-Stack Developer",
+  goal: "Join an innovative startup team",
+  mindset: "Growth-oriented, Challenge-seeker"
+}
+```
 
 <div align="center">
 
@@ -93,26 +101,14 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-## 🤝 Connect With Me
+## 🤝 **Let's Connect & Build Something Amazing!**
 
-<a href="https://www.linkedin.com/in/rohithkrishnan1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/rohithkrishnan1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:rohithkrishnan997@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="your-portfolio-link">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
 
-<br><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-<em>“Let’s collaborate and turn ideas into impactful applications.”</em>  
-<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Ready to bring fresh energy and perspective to your development team!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
 
 </div>
 
@@ -120,7 +116,7 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-### *"One line at a time"* 
+### *"Code is poetry written in logic, and I'm here to write the next chapter."* 
 
 <img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
