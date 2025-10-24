@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rohith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### 🚀 From Marketing Mind to Code Craftsman
+### 💻 MBA Graduate Turned Full-Stack Developer  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=self.taught('MERN+Stack');growth.mindset++;innovation.explorer();continuous.learner=true;" alt="Typing animation" />
 
@@ -79,13 +79,14 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-## 🎯 **Currently Seeking**
+## 🎯 What I’m Looking For
 
-**My first IT role** in a dynamic startup where I can:
- ✅ Contribute from day one
- ✅ Learn from experienced developers  
- ✅ Face new challenges daily
- ✅ Grow with an innovative team
+I’m seeking my **first tech role** in a forward-thinking startup where I can:
+
+- Contribute to meaningful projects  
+- Learn from passionate engineers  
+- Tackle new challenges  
+- Grow alongside an innovative team  
 
 <br>
 
@@ -116,7 +117,7 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-### *"Code is poetry written in logic, and I'm here to write the next chapter."* 
+### *"One line at a time"* 
 
 <img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
