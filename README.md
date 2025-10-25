@@ -16,8 +16,6 @@ const rohith = {
   background: "MBA Graduate + 2 Years Marketing",
   transformation: "1 Year intensive self-learning",
   current_status: "Full-Stack Developer",
-  goal: "Join an innovative startup team",
-  mindset: "Growth-oriented, Challenge-seeker"
 }
 ```
 
