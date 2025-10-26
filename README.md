@@ -77,16 +77,7 @@ Thrives in fast-paced, challenging environments
 
 <div align="center">
 
-## 🎯 What I’m Looking For
 
-I’m seeking my **first tech role** in a forward-thinking startup where I can:
-
- Contribute to meaningful projects  
- Learn from passionate engineers  
- Tackle new challenges  
- Grow alongside an innovative team  
-
-<br>
 
 ### 📊 **GitHub Stats**
 
