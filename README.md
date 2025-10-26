@@ -81,10 +81,10 @@ Thrives in fast-paced, challenging environments
 
 I’m seeking my **first tech role** in a forward-thinking startup where I can:
 
-- Contribute to meaningful projects  
-- Learn from passionate engineers  
-- Tackle new challenges  
-- Grow alongside an innovative team  
+ Contribute to meaningful projects  
+ Learn from passionate engineers  
+ Tackle new challenges  
+ Grow alongside an innovative team  
 
 <br>
 
