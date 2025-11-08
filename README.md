@@ -10,7 +10,7 @@
 
 ---
 
-## 💫 **My Transformation Journey**
+## 💫 **My Transformation Journey***
 ```javascript
 const rohith = {
   background: "MBA Graduate + 2 Years Marketing",
