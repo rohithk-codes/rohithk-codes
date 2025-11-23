@@ -79,7 +79,7 @@ Thrives in fast-paced, challenging environments
 
 
 
-### 📊 **GitHub Stats**
+### 📊 **GitHub Stats*
 
 <img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
 
