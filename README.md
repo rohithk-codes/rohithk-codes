@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi there, I'm Rohith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -111,4 +111,4 @@ Thrives in fast-paced, challenging environments
 <img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
-
+ -->
