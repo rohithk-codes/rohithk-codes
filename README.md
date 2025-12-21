@@ -102,7 +102,7 @@ Thrives in fast-paced, challenging environments
 
 </div>
 
----
+
 
 <div align="center">
 
