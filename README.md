@@ -1,114 +1,76 @@
-<!-- <div align="center">
+# Rohith Krishnan
 
-# Hi there, I'm Rohith! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+**Full-Stack Developer | MBA Graduate | MERN Stack Specialist**
 
-### 💻 MBA Graduate Turned Full-Stack Developer  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=self.taught('MERN+Stack');" alt="Typing animation" />
-
-</div>
+Thiruvananthapuram, Kerala, India | [LinkedIn](https://www.linkedin.com/in/rohithkrishnan1) | [Portfolio](https://my-portfolio-livid-five-96.vercel.app/) | rohithkrishnan997@gmail.com
 
 ---
 
-## 💫 **My Transformation Journey***
-```javascript
-const rohith = {
-  background: "MBA Graduate + 2 Years Marketing",
-  transformation: "1 Year intensive self-learning",
-  current_status: "Full-Stack Developer",
-}
-```
+## About Me
 
-<div align="center">
+I'm a full-stack developer with a unique background combining an MBA education and two years of marketing experience with intensive self-taught programming skills. Over the past year, I've developed proficiency in modern web technologies and successfully delivered real-world projects, including freelance work.
 
-## 🛠️ **Tech Arsenal**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
+My transition from marketing to software development has equipped me with a distinctive perspective on problem-solving, combining business acumen with technical expertise. I thrive in fast-paced environments and am particularly interested in startup opportunities where I can contribute to building innovative solutions.
 
 ---
 
-## 🏆 **Featured Project**
+## Technical Skills
 
-<div align="center">
-
-### 🏋️‍♂️ **GYM BUDDY - E-commerce Platform**
-*Complete MERN Stack Fitness Equipment Store*
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](your-demo-link)
-[![Source Code](https://img.shields.io/badge/Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
-
-**✨ Features:** User Authentication • Responsive Design • Real-world Functionality • Payment Integration
-
-</div>
+**Frontend:** JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Tools & Practices:** Git, RESTful APIs, Responsive Design, Agile Methodology
 
 ---
 
-## ⚡ **“Let’s Build Something Great Together”**
+## Featured Project
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"><br>
-<b>🧠 Fresh Perspective</b><br>
-Marketing background + coding skills = unique problem-solving approach
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"><br>
-<b>📈 Proven Learner</b><br>
-Self-taught developer with real project experience & freelance work
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"><br>
-<b>🚀 Startup Ready</b><br>
-Thrives in fast-paced, challenging environments
-</td>
-</tr>
-</table>
+### GYM BUDDY - E-commerce Platform
+A comprehensive full-stack e-commerce application for fitness equipment built with the MERN stack.
+
+**Key Features:**
+- User authentication and authorization system
+- Responsive design for seamless cross-device experience
+- Product catalog with search and filtering capabilities
+- Shopping cart and checkout functionality
+- Payment gateway integration
+
+**Technologies:** MongoDB, Express.js, React.js, Node.js
+
+[View Live Demo](#) | [Source Code](#)
 
 ---
 
-<div align="center">
+## What I Bring
 
+**Unique Perspective:** My marketing background provides insight into user behavior and business objectives, enabling me to build solutions that are both technically sound and market-focused.
 
+**Proven Learning Ability:** Successfully transitioned careers through disciplined self-learning, demonstrating adaptability and commitment to continuous growth.
 
-### 📊 **GitHub Stats*
+**Practical Experience:** Completed real-world projects including freelance work, showcasing ability to deliver production-ready applications.
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk-codes&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
-
-</div>
+**Startup Mindset:** Comfortable with ambiguity, quick to learn new technologies, and eager to take on challenging problems in dynamic environments.
 
 ---
 
-<div align="center">
+## GitHub Statistics
 
-## 🤝 **Let's Connect & Build Something Amazing!**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithk-codes&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-<a href="https://www.linkedin.com/in/rohithkrishnan1"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-livid-five-96.vercel.app/)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithk-codes&layout=compact&theme=default&hide_border=true)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>“Fuelled by curiosity, driven by results.”</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50">
+---
 
-</div>
+## Let's Connect
 
+I'm actively seeking opportunities to contribute to innovative projects and grow as a developer. If you're looking for someone who combines technical skills with business understanding and a passion for learning, let's connect.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithkrishnan1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://my-portfolio-livid-five-96.vercel.app/)
 
-<div align="center">
+---
 
-### *"One line at a time"* 
+*"Building the future, one commit at a time."*
 
-<img src="https://komarev.com/ghpvc/?username=rohithk-codes&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
- -->
+![Profile Views](https://komarev.com/ghpvc/?username=rohithk-codes&color=blue&style=flat)
