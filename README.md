@@ -49,7 +49,6 @@ A comprehensive full-stack e-commerce application for fitness equipment built wi
 
 **Practical Experience:** Completed real-world projects including freelance work, showcasing ability to deliver production-ready applications.
 
-**Startup Mindset:** Comfortable with ambiguity, quick to learn new technologies, and eager to take on challenging problems in dynamic environments.
 
 ---
 
