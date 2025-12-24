@@ -62,8 +62,6 @@ A comprehensive full-stack e-commerce application for fitness equipment built wi
 
 ## Let's Connect
 
-I'm actively seeking opportunities to contribute to innovative projects and grow as a developer. If you're looking for someone who combines technical skills with business understanding and a passion for learning, let's connect.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithkrishnan1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rohithkrishnan997@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://my-portfolio-livid-five-96.vercel.app/)
