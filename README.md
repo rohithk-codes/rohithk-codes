@@ -1,6 +1,5 @@
 # Rohith Krishnan
-**Full-Stack Developer | MBA Graduate | MERN Stack Specialist**
-Thiruvananthapuram, Kerala, India | [LinkedIn](https://www.linkedin.com/in/rohithkrishnan1) | [Portfolio](https://my-portfolio-livid-five-96.vercel.app/) | rohithkrishnan997@gmail.com
+**Full-Stack Developer | MBA Graduate | MERN Stack Specialist** | [LinkedIn](https://www.linkedin.com/in/rohithkrishnan1) | [Portfolio](https://my-portfolio-livid-five-96.vercel.app/) | rohithkrishnan.dev@gmail.com
 
 ---
 
@@ -52,10 +51,6 @@ A comprehensive full-stack e-commerce application for fitness equipment built wi
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithk-codes&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
-
-
-### Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohithk-codes&theme=github-compact&hide_border=true)
 
 </div>
 
