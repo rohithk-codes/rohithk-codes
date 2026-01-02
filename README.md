@@ -62,11 +62,6 @@ A comprehensive full-stack e-commerce application for fitness equipment built wi
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rohith-dev?theme=light&font=Nunito&ext=heatmap)
 
-**OR use this alternative:**
-
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=rohith-dev&theme=light)](https://leetcode.com/rohith-dev/)
-
-![LeetCode Badges](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frohith-dev&logo=leetcode&logoColor=yellow)
 
 </div>
 
