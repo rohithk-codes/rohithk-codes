@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohith Krishnan
+# 👋 Hi, I'm Rohith
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;MBA+mind.+Developer+hands.+Startup+soul.;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;MERN STACK DEVELOPER.;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
