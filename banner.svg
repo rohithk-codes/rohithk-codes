@@ -1,1 +1,68 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#3fb950" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
 
+  <!-- Background -->
+  <rect width="860" height="120" rx="10" fill="#0d1117"/>
+
+  <!-- Top thin gradient line -->
+  <rect x="0" y="0" width="860" height="2" rx="1" fill="url(#line)"/>
+
+  <!-- Bottom thin gradient line -->
+  <rect x="0" y="118" width="860" height="2" rx="1" fill="url(#line)"/>
+
+  <!-- Left vertical accent -->
+  <rect x="40" y="30" width="2" height="60" rx="1" fill="#58a6ff" opacity="0.5"/>
+
+  <!-- Name -->
+  <text x="60" y="55"
+    font-family="Georgia, serif"
+    font-size="22"
+    font-weight="bold"
+    letter-spacing="4"
+    fill="#ffffff">
+    ROHITH KRISHNAN
+  </text>
+
+  <!-- Role line -->
+  <text x="60" y="80"
+    font-family="Courier New, monospace"
+    font-size="12"
+    letter-spacing="2"
+    fill="#8b949e">
+    Full-Stack Developer  ·  MERN Stack  ·  Open to Work
+  </text>
+
+  <!-- Tagline -->
+  <text x="60" y="102"
+    font-family="Georgia, serif"
+    font-size="11"
+    font-style="italic"
+    letter-spacing="1"
+    fill="#58a6ff"
+    opacity="0.85">
+    MBA mind. Developer hands. Startup soul.
+  </text>
+
+  <!-- Right side dot decoration -->
+  <circle cx="790" cy="52" r="3" fill="#3fb950" opacity="0.6"/>
+  <circle cx="805" cy="52" r="3" fill="#58a6ff" opacity="0.4"/>
+  <circle cx="820" cy="52" r="3" fill="#a371f7" opacity="0.3"/>
+
+  <!-- Small "available" tag -->
+  <rect x="770" y="68" width="72" height="18" rx="9" fill="#1a2d1a" stroke="#3fb950" stroke-width="0.8"/>
+  <circle cx="782" cy="77" r="3" fill="#3fb950"/>
+  <text x="790" y="81"
+    font-family="Courier New, monospace"
+    font-size="8"
+    fill="#3fb950"
+    letter-spacing="1">
+    AVAILABLE
+  </text>
+</svg>
